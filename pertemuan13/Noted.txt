@@ -1,0 +1,9 @@
+UNTUK PENGGUNAAN JSON WEB TOKEN
+
+Untuk data data pembayaran yg rahasia harus diberikan Token agar tidak disalahgunain 
+sama org Lain.
+
+Jadi untuk menjaga data API kita tidak dilihat oleh orang yang memang dirinya.
+Menggunakan JSON WEB TOKEN agar hanya orang dgn token tersebut yg melihat data - datanya.
+
+JSON WEB TOKEN (JWT) Sangat Penting !!!

@@ -1,0 +1,13 @@
+
+UNTUK NO SQL
+------------
+Pakai NoSQL untuk data - data irrelasional atau tidak membutuhkan table/
+collection lain.
+Dan data yang jumlahnya banyak yang perlu cepat di panggil.
+
+SQL
+---
+Untuk data data kompleks sebaiknya pakai SQL saja, soalnya memerlukan isi
+dari table/collection lain, fungsi atau fitur lebih banyak.
+Seperti kategori dan produk, table transaksi dan lainnya.
+contoh: PortgresSQL, Oracle, mySql
